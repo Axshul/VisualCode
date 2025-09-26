@@ -29,7 +29,6 @@ A sleek, modern web app for developers to preview, customize, and export their c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prism/prism-original.svg" title="Prism.js" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html2canvas" height="40"/>
 </p>
 
@@ -71,8 +70,3 @@ For support or to contribute, please open an issue or contact the maintainer.
 ## 🌟 Enjoy coding and exporting!
 
 ---
-
-*For AI-generated images or edits, visit:*  
-[AI Image Generator](https://deepai.org/machine-learning-model/text2img)  
-[AI Image Editing](https://deepai.org/machine-learning-model/image-editor)  
-[AI Video Generator](https://deepai.org/video)
