@@ -19,7 +19,7 @@ A sleek, modern web app for developers to preview, customize, and export their c
 
 [🔗 See LIVE](https://axshul.github.io/VisualCode)
 
-> Replace `https://your-live-demo-url.com` with your actual live deployment link.
+> `https://axshul.github.io/VisualCode`
 
 ---
 
